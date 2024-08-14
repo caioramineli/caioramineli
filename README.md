@@ -9,7 +9,7 @@
 
 </div>
 <br>
-<div style="display: inline_block; margin-top: 1rem">
+<div style="display: inline_block; margin-top: 2rem">
   <img align="center" alt="Logo-Js" height="40" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png">
   <img align="center" alt="Logo-react" height="32" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Logo-nodejs" height="34" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png">
@@ -32,9 +32,9 @@
   
   ##
   
-  <div style="display: flex;">
+<div style="display: flex;">
   <a href="https://www.linkedin.com/in/caioramineli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   <a href = "mailto:caiofrancoramineli3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+</div>
           
