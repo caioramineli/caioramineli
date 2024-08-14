@@ -24,7 +24,6 @@
   <img align="center" alt="Logo-mysql" height="32" width="40" src="https://caioramineli.github.io/portfolio/assets/mysql.png">
   <img align="center" alt="Logo-mongo" height="33" width="32" src="https://www.svgrepo.com/show/331488/mongodb.svg">
   <img align="center" alt="Logo-postgresql" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Logo-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
   <img align="center" alt="Logo-python" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
  
   
