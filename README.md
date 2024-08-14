@@ -1,12 +1,12 @@
 ## Meu nome é Caio Ramineli, estou estudando atualmente para me tornar um desenvolverdor Full Stack, a linguagem que estou focado hoje é JavaScript 💻
-
+<br>
 <div align="middle">
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=caioramineli&show_icons=true&theme=dracula)](https://github.com/caioramineli)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioramineli&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/caioramineli)
     
 
-<br>
+
 </div>
 <br>
 <div style="display: inline_block;">
