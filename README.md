@@ -1,4 +1,7 @@
-## Meu nome é Caio Ramineli, estou estudando atualmente para me tornar um desenvolvedor Web Full Stack, a linguagem que estou focado é JavaScript 💻
+# 👋 Olá, eu sou o Caio Ramineli!  
+
+**Desenvolvedor Web Full-Stack 💻**  
+Apaixonado por criar aplicações web, trabalho com **JavaScript** no desenvolvimento de aplicações modernas e eficientes, tanto no frontend quanto no backend.
 <br>
 <div align="middle">
 
@@ -20,7 +23,7 @@
   <img align="center" alt="Logo-php" height="30" width="40" src="https://caioramineli.github.io/portfolio/assets/php.png">
   <img align="center" alt="Logo-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
   <img align="center" alt="Logo-BootStrap" height="30" width="40" src="https://caioramineli.github.io/portfolio/assets/bootstrap.png">
-   <img align="center" alt="Logo-tailwind" height="30" width="40" src="https://caioramineli.github.io/portfolio/assets/tailwind.png">
+  <img align="center" alt="Logo-tailwind" height="30" width="40" src="https://caioramineli.github.io/portfolio/assets/tailwind.png">
   <img align="center" alt="Logo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Logo-mysql" height="32" width="40" src="https://caioramineli.github.io/portfolio/assets/mysql.png">
   <img align="center" alt="Logo-mongo" height="33" width="32" src="https://www.svgrepo.com/show/331488/mongodb.svg">
