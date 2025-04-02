@@ -12,7 +12,7 @@ Apaixonado por criar aplicações web, trabalho com **JavaScript** no desenvolvi
 
 </div>
 <br>
-<div style="display: inline_block;">
+<div style="display: inline_block; gap: 2px;">
   <img align="center" alt="Logo-Js" height="40" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png">
   <img align="center" alt="Logo-react" height="32" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Logo-vue" height="32" width="34" src="https://caioramineli.github.io/portfolio/assets/vue.png">
